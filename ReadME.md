@@ -16,6 +16,6 @@
 - To run in headless mode and generate report run : `cypress run --reporter mochawesome`
 
 ### Tests implemented:
-- 5 tests and 1 script with Data Driven(run 3 times) in total were implemented as part of this framework using TypeScript as the backbone programming language
+- 2 specs contains 5 scripts and 1 script with Data Driven(run 3 times)were implemented.
 - The page object pattern was used
 - Application under test: http://the-internet.herokuapp.com 
