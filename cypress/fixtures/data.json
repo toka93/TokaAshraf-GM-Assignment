@@ -1,0 +1,11 @@
+{
+  "tableTitle": "Large & Deep DOM",
+  "addRemoveTitle": "Add/Remove Elements",
+  "brokenImagesTitle": "Broken Images",
+  "dynamicLoadingTitle":"Dynamically Loaded Page Elements",
+  "dragDropTitle":"Drag and Drop",
+  "loginForm":"Login Page",
+  "Rows":50,
+  "Columns":50
+
+}
