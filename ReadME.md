@@ -19,3 +19,8 @@
 - 2 specs contains 5 scripts and 1 script with Data Driven(run 3 times)were implemented.
 - The page object pattern was used
 - Application under test: http://the-internet.herokuapp.com 
+
+
+### 
+- After running `cypress run --reporter mochawesome` a folder will be created at the root directory contains html reports for every spec.
+
