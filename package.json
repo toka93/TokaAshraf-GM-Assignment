@@ -1,0 +1,21 @@
+{
+  "name": "tokaashraf-gm-assignment",
+  "version": "1.0.0",
+  "description": "assignment for GM using cypress with typescript",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "cypress-drag-drop": "^1.1.1"
+  }
+}
